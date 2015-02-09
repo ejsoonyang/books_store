@@ -1,0 +1,61 @@
+到底要怎麼git
+
+我記錄下了這次學習git的體驗.我認為趁自己還是新手時寫的教程才是真正的'新手教程'.
+我的理解:git是一個版本控制軟體;github是一個網站;git是一個通過在github上載/下載來控制文檔版本的軟體.
+開始tour吧!先去github.com創建一個賬號,再在網站上找到'New repository',查了字典是新容器的意思.圖形介面建立了賬號和項目,還要在賬號設置(account setting)裡面確認郵箱,然後下載安裝git軟體.
+這是個沒有圖形介面的軟體,如果用的是win機,那也要在command窗口內運行,用win的孩子都應該很不習慣吧.我用的是openSUSE,它直接就預裝了git.
+
+
+下面我們就開始git吧.
+操作環境:
+linux-openSUSE-gnome>terminal
+
+講解格式:
+()為中文講解內容
+[]為命令行內輸入的內容
+﹂>對上面剛輸入的內容的意義進行解釋
+
+(本地登陸git)
+[git config --global user.name "在git網站創建的用戶名"]
+[git config --global user.email "你的電郵@??.com"]
+﹂>我猜這樣做目的是今後誰要是pull/push了你的文檔,你都可以收到郵件提醒.
+﹂>但我不知道是不是每次開機都得確認一次.
+﹂>也不知道如果同一個機子有兩個用戶該怎麼辦.
+
+[mkdir 你的repository && cd 你的repository]
+﹂>創建一個和你的repository名字相同的文檔夾,然後(cd)進入文檔夾.
+
+[git init]
+﹂>這個大概就是'初始化'的意思,實質意義是在你的這個文檔夾裡創建一個.git隱藏文檔夾.
+
+(現在你可以對你的repository進行同步處理了)
+(先隨便往這個文檔夾裡放些文檔進去,比如)
+[cp /anypath/ejsoon_ime.py /anypath/我的repository]
+﹂>我放了一個ejsoon_ime.py文檔到這個文檔夾.
+
+[git add ejsoon_ime.py]
+﹂>把準備上載的文檔信息寫入.git.
+
+(緊接著你可以繼續你的(編程)工作,直到你工作結束,你在此文檔夾新建了許多文檔,請你都按上面那個命令把他們add進去,或直接git add *把所有文檔全部列入此次要更新的目標)
+
+[git commit -m '對你已列入上載目標的這批文檔寫點甚麼']
+﹂>如你可以寫'第一批文檔',或隨便寫點關於這些文檔的信息.
+﹂>當你敲入回車,它會返回一些信息,顯示有多少個文檔已更改,改動了多少.
+
+[git remote add 上載網址代號 https://github.com/你的用戶名/你的repository.git]
+﹂>這個代號可以一直用,不需要重複添加
+
+(注意:以上操作都是在本地工作的,沒有/不需連接網路)
+(下面是上載/下載)
+[git push 上載網址代號 master]
+﹂>如果發生錯誤提示,意思為你要先pull才能push,即要先把以上命令中的'push'改成'pull'.
+
+(當你看到命令行裡寫著你上載進度,再去github查看果然上載成功,心裡是不是很激動啊?我第一次成功的時候很高興的啊)
+
+(以下為後面的循環操作)
+[git add *]
+[git commit -m '每次都要寫些不同的文字']
+[git push 舊的上載網址代號 master]
+
+
+總結:git這個破軟體,功能其實很簡單,就是記錄文檔信息,上載/下載.要寫用戶名-郵箱-上載網址代號,要告訴它哪些文件要改,要加commit,還要親自動手push/pull.比較dropbox可以自動同步,也有recover backup功能.git果然足夠geek.
