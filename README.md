@@ -35,19 +35,52 @@ www.linuxmint.com
 
 www.opensuse.org
 
+www.centos.org
+
 www.ubuntu.com/global
 
 www.python.org
 
 www.latex-project.org/guides
 
-www.mozilla.org/en-US
+
+www.gimp.org
+
+www.inkscape.org/en
+
+www.blender.org
+
 
 www.pitivi.org
+
+www.musescore.org
+
+
+www.libreoffice.org
 
 www.evernote.com
 
 www.wiznote.com
+
+
+http://calibre-ebook.com
+
+
+www.7-zip.org
+
+www.mozilla.org/en-US
+
+www.foobar2000.org
+
+
+www.ffmpeg.org
+
+http://libav.org
+
+http://lame.sourceforge.net/
+
+http://monkeysaudio.com/
+
 
 tutorial
 ---
@@ -81,4 +114,8 @@ follow me倉頡字典http://input.foruto.com/cccls/cjzd.html
 倉頡之友‧香港http://www.cjhk.org
 
 倉頡之友‧馬來西亞http://www.chinesecj.com
+
+易頡http://ecj.hk
+
+快倉http://www.scj2000.com
 
