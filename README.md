@@ -17,6 +17,7 @@ http://dict.revised.moe.edu.tw
 
 象形字典http://vividict.com
 
+---
 網路展書讀http://cls.hs.yzu.edu.tw
 
 開放文學http://www.open-lit.com
@@ -43,16 +44,27 @@ www.python.org
 
 www.latex-project.org/guides
 
-
+---
 www.gimp.org
 
 www.inkscape.org/en
 
+http://wiki.scribus.net/canvas/Scribus
+
+---
+
 www.blender.org
 
+www.synfig.org
+
+http://pencil.evolus.vn
+
+---
+http://openshot.org/
 
 www.pitivi.org
 
+---
 www.musescore.org
 
 ---
@@ -63,25 +75,30 @@ www.evernote.com
 
 www.wiznote.com
 
+---
+http://okular.kde.org
+
+http://wiki.gnome.org/Apps/Evince
 
 http://calibre-ebook.com
 
-
+---
 www.7-zip.org
 
 www.mozilla.org/en-US
 
 www.foobar2000.org
 
-
+---
 www.ffmpeg.org
 
 http://libav.org
 
-http://lame.sourceforge.net/
+http://lame.sourceforge.net
 
-http://monkeysaudio.com/
+http://monkeysaudio.com
 
+www.xine-project.org/home
 
 tutorial
 ---
