@@ -58,7 +58,6 @@ www.inkscape.org/en
 http://wiki.scribus.net/canvas/Scribus
 
 ---
-
 www.blender.org
 
 www.synfig.org
@@ -74,12 +73,9 @@ www.pitivi.org
 www.musescore.org
 
 ---
-
 www.libreoffice.org
 
 www.evernote.com
-
-www.wiznote.com
 
 ---
 http://okular.kde.org
