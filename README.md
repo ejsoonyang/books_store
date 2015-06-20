@@ -100,6 +100,10 @@ http://monkeysaudio.com
 
 www.xine-project.org/home
 
+www.vorbis.com
+
+www.xiph.org
+
 tutorial
 ---
 www.gimpmagazine.org/
