@@ -19,15 +19,15 @@ http://dict.revised.moe.edu.tw
 
 網路展書讀http://cls.hs.yzu.edu.tw
 
-開放文學www.open-lit.com
+開放文學http://www.open-lit.com
 
-佛光山www.fgs.org.tw
+佛光山http://www.fgs.org.tw
 
 漢川草蘆http://sidneyluo.net
 
-三字經www.mdnkids.com/poem2
+三字經http://www.mdnkids.com/poem2
 
-星火-中學生網上文學月刊www.fed.cuhk.edu.hk/young_lit
+星火-中學生網上文學月刊http://www.fed.cuhk.edu.hk/young_lit
 
 opensource
 ---
@@ -74,11 +74,11 @@ cangjie
 ---
 follow me倉頡字典http://input.foruto.com/cccls/cjzd.html
 
-香港中文大學教育學院-何萬貫www.fed.cuhk.edu.hk/readwrite/typing
+香港中文大學教育學院-何萬貫http://www.fed.cuhk.edu.hk/readwrite/typing
 
 中文輸入法博覽http://input.foruto.com/source/index.html
 
-倉頡之友‧香港www.cjhk.org
+倉頡之友‧香港http://www.cjhk.org
 
-倉頡之友‧馬來西亞www.chinesecj.com
+倉頡之友‧馬來西亞http://www.chinesecj.com
 
