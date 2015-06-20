@@ -145,3 +145,5 @@ follow me倉頡字典http://input.foruto.com/cccls/cjzd.html
 
 快倉http://www.scj2000.com
 
+開放香草輸入法www.openvanilla.org
+
