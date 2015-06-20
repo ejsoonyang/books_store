@@ -13,6 +13,7 @@ http://stroke-order.learningweb.moe.edu.tw/character.do
 
 http://dict.revised.moe.edu.tw
 
+---
 字源網http://www.fantizi5.com/ziyuan
 
 象形字典http://vividict.com
@@ -26,7 +27,9 @@ http://dict.revised.moe.edu.tw
 
 漢川草蘆http://sidneyluo.net
 
-三字經http://www.mdnkids.com/poem2
+讀書網-神仙傳http://big5.dushu.com/showbook/100992
+
+國語日報社-三字經http://www.mdnkids.com/poem2
 
 星火-中學生網上文學月刊http://www.fed.cuhk.edu.hk/young_lit
 
@@ -40,6 +43,7 @@ www.centos.org
 
 www.ubuntu.com/global
 
+---
 www.python.org
 
 www.latex-project.org/guides
