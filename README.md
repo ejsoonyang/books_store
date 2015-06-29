@@ -45,6 +45,10 @@ www.centos.org
 
 www.ubuntu.com/global
 
+www.linux.com
+
+www.freebsd.org
+
 ---
 www.php.net
 
@@ -57,6 +61,8 @@ www.gimp.org
 
 www.inkscape.org/en
 
+http://mypaint.intilinux.com/
+
 http://wiki.scribus.net/canvas/Scribus
 
 ---
@@ -67,12 +73,16 @@ www.synfig.org
 http://pencil.evolus.vn
 
 ---
-http://openshot.org/
+http://openshot.org
 
 www.pitivi.org
 
 ---
 www.musescore.org
+
+http://ardour.org
+
+http://rosegardenmusic.com
 
 ---
 www.libreoffice.org
@@ -89,9 +99,19 @@ http://calibre-ebook.com
 ---
 www.7-zip.org
 
+---
 www.mozilla.org/en-US
 
+www.google.com/chrome
+
+www.opera.com
+
+---
 www.foobar2000.org
+
+www.videolan.org
+
+www.mplayerhq.hu
 
 ---
 www.ffmpeg.org
@@ -110,9 +130,11 @@ www.xiph.org
 
 tutorial
 ---
-www.gimpmagazine.org/
+www.gimpmagazine.org
 
 www.w3schools.com/html
+
+www.learncpp.com
 
 search
 ---
