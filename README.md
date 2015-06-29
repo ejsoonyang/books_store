@@ -23,6 +23,8 @@ http://dict.revised.moe.edu.tw
 
 開放文學http://www.open-lit.com
 
+中國晢學書電子計劃http://ctext.org/zh
+
 佛光山http://www.fgs.org.tw
 
 漢川草蘆http://sidneyluo.net
