@@ -89,6 +89,8 @@ www.libreoffice.org
 
 www.evernote.com
 
+http://freeplane.sourceforge.net
+
 ---
 http://okular.kde.org
 
