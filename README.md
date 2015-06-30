@@ -89,6 +89,8 @@ www.libreoffice.org
 
 www.evernote.com
 
+http://freeplane.sourceforge.net
+
 ---
 http://okular.kde.org
 
@@ -146,7 +148,7 @@ www.bing.com
 
 little
 ---
-www.programet.org
+http://programet.org
 
 www.byvoid.com
 
