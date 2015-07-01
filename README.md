@@ -1,6 +1,8 @@
 website
 =========
 
+www.wikipedia.org
+
 Chinese
 ---
 http://xiaoxue.iis.sinica.edu.tw
@@ -36,8 +38,6 @@ http://dict.revised.moe.edu.tw
 讀書網-神仙傳http://big5.dushu.com/showbook/100992
 
 國語日報社-三字經http://www.mdnkids.com/poem2
-
-星火-中學生網上文學月刊http://www.fed.cuhk.edu.hk/young_lit
 
 opensource
 ---
@@ -149,8 +149,6 @@ www.google.com
 www.yahoo.com
 
 www.bing.com
-
-www.wikipedia.org
 
 little
 ---
