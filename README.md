@@ -25,8 +25,12 @@ http://dict.revised.moe.edu.tw
 
 中國晢學書電子計劃http://ctext.org/zh
 
+---
 佛光山http://www.fgs.org.tw
 
+國際佛教僧尼總會http://www.ibsahq.org
+
+---
 漢川草蘆http://sidneyluo.net
 
 讀書網-神仙傳http://big5.dushu.com/showbook/100992
