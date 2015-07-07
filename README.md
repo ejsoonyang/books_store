@@ -9,6 +9,8 @@ http://xiaoxue.iis.sinica.edu.tw
 
 http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf
 
+http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can
+
 www.hanculture.com/dic/index.php
 
 http://stroke-order.learningweb.moe.edu.tw/character.do
