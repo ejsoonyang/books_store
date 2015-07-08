@@ -67,7 +67,9 @@ www.gimp.org
 
 www.inkscape.org/en
 
-http://mypaint.intilinux.com/
+www.krita.org
+
+http://mypaint.intilinux.com
 
 http://wiki.scribus.net/canvas/Scribus
 
