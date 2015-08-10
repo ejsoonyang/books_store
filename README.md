@@ -1,8 +1,6 @@
 website
 =========
 
-www.wikipedia.org
-
 Chinese
 ---
 http://xiaoxue.iis.sinica.edu.tw
@@ -54,6 +52,10 @@ www.gimpmagazine.org
 www.w3schools.com/html
 
 www.learncpp.com
+
+wiki
+---
+www.wikipedia.org
 
 search
 ---
