@@ -39,6 +39,8 @@ http://dict.revised.moe.edu.tw
 
 神仙傳-中國哲學書電子化計畫http://ctext.org/shen-xian-zhuan/zh
 
+粵語文化傳播協會http://cantoneseculture.com/page_Headline/index.aspx
+
 中國書法-香港城市大學http://www.cityu.edu.hk/lib/about/event/ch_calligraphy/preface_chi.htm
 
 三字經-國語日報社http://www.mdnkids.com/poem2
