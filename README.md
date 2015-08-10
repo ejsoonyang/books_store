@@ -43,6 +43,8 @@ http://dict.revised.moe.edu.tw
 
 中國書法-香港城市大學http://www.cityu.edu.hk/lib/about/event/ch_calligraphy/preface_chi.htm
 
+三字經簡說-明倫電子叢書http://www.minlun.org.tw/3pt/3-dreamweaver/27-01.htm
+
 三字經-國語日報社http://www.mdnkids.com/poem2
 
 tutorial
