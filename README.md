@@ -30,6 +30,8 @@ http://dict.revised.moe.edu.tw
 ---
 佛光山http://www.fgs.org.tw
 
+世界佛教僧伽會http://wbsc886.org/
+
 國際佛教僧尼總會http://www.ibsahq.org
 
 ---
