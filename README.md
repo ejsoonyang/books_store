@@ -34,6 +34,8 @@ http://dict.revised.moe.edu.tw
 
 國際佛教僧尼總會http://www.ibsahq.org
 
+佛典故事http://www.ctworld.org.tw/sutra_stories/ind_01.htm
+
 ---
 漢川草蘆http://sidneyluo.net
 
