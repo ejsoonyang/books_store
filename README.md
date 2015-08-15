@@ -36,6 +36,8 @@ http://dict.revised.moe.edu.tw
 
 佛典故事http://www.ctworld.org.tw/sutra_stories/ind_01.htm
 
+淨宗學院http://new.jingzong.org
+
 ---
 漢川草蘆http://sidneyluo.net
 
