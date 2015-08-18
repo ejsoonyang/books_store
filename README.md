@@ -5,7 +5,7 @@ Chinese
 ---
 小學堂-中研院http://xiaoxue.iis.sinica.edu.tw
 
-漢文庫典-朱邦復www.hanculture.com/dic/index.php
+漢文庫典-朱邦復http://www.hanculture.com/dic/index.php
 
 漢語多功能字庫-香港中文大學http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf
 
