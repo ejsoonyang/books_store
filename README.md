@@ -3,17 +3,17 @@ website
 
 Chinese
 ---
-http://xiaoxue.iis.sinica.edu.tw
+小學堂-中研院http://xiaoxue.iis.sinica.edu.tw
 
-http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf
+漢文庫典-朱邦復www.hanculture.com/dic/index.php
 
-http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can
+漢語多功能字庫-香港中文大學http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf
 
-www.hanculture.com/dic/index.php
+粵語審音配詞字庫-香港中文大學http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can
 
-http://stroke-order.learningweb.moe.edu.tw/character.do
+常用國字標準字體筆順學習網-中華民國教育部http://stroke-order.learningweb.moe.edu.tw/character.do
 
-http://dict.revised.moe.edu.tw
+教育部重編國語辭典-中華民國教育部http://dict.revised.moe.edu.tw
 
 ---
 字源網http://www.fantizi5.com/ziyuan
