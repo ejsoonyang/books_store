@@ -11,9 +11,9 @@ Chinese
 
 粵語審音配詞字庫-香港中文大學http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can
 
-常用國字標準字體筆順學習網-中華民國教育部http://stroke-order.learningweb.moe.edu.tw/character.do
+常用字筆順學習網-中華民國教育部http://stroke-order.learningweb.moe.edu.tw/character.do
 
-教育部重編國語辭典-中華民國教育部http://dict.revised.moe.edu.tw
+重編國語辭典-中華民國教育部http://dict.revised.moe.edu.tw
 
 ---
 字源網http://www.fantizi5.com/ziyuan
