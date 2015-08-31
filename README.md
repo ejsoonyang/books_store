@@ -16,9 +16,9 @@ Chinese
 重編國語辭典-中華民國教育部http://dict.revised.moe.edu.tw
 
 ---
-字源網http://www.fantizi5.com/ziyuan
+字源網(中國)http://www.fantizi5.com/ziyuan
 
-象形字典http://vividict.com
+象形字典(中國)http://vividict.com
 
 ---
 網路展書讀http://cls.hs.yzu.edu.tw
