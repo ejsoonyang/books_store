@@ -51,6 +51,10 @@ Chinese
 
 三字經-國語日報社http://www.mdnkids.com/poem2
 
+video
+---
+楚國八百年-央視網(中國)http://tv.cntv.cn/videoset/VSET100186807755
+
 tutorial
 ---
 www.gimpmagazine.org
