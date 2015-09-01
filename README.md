@@ -57,6 +57,10 @@ video
 
 明史演繹-土豆網(中國)http://www.tudou.com/plcover/jmvFnknyaX0
 
+font
+---
+www.justfont.com
+
 tutorial
 ---
 www.gimpmagazine.org
