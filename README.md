@@ -57,7 +57,11 @@ video
 
 西楚霸王-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355582437561125.shtml
 
-回望勾吳-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355567357439372.shtml
+回望勾吳(第五集勾踐滅吳)-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355567357439372.shtml
+
+上下五千年-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145900906834.shtml
+
+帝國的興衰-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355569689990659.shtml
 
 中國古鎮-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145774382985.shtml
 
