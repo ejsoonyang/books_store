@@ -15,6 +15,8 @@ Chinese
 
 重編國語辭典-中華民國教育部http://dict.revised.moe.edu.tw
 
+萌典https://www.moedict.tw
+
 ---
 字源網(中國)http://www.fantizi5.com/ziyuan
 
@@ -22,6 +24,8 @@ Chinese
 
 ---
 網路展書讀http://cls.hs.yzu.edu.tw
+
+漢川草廬http://www.sidneyluo.net
 
 開放文學http://www.open-lit.com
 
@@ -51,43 +55,10 @@ Chinese
 
 三字經-國語日報社http://www.mdnkids.com/poem2
 
-video
 ---
-楚國八百年-央視網(中國)http://tv.cntv.cn/videoset/VSET100186807755
+合併字-北大中文論壇http://www.pkucn.com/thread-246379-1-1.html
 
-西楚霸王-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355582437561125.shtml
-
-回望勾吳(第五集勾踐滅吳)-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355567357439372.shtml
-
-上下五千年-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145900906834.shtml
-
-帝國的興衰-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355569689990659.shtml
-
-中國古鎮-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145774382985.shtml
-
-青銅王朝-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355151271419540.shtml
-
-梦回大唐：大明宫猜想-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355574229055492.shtml
-
-非常帝王的非常之謎-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355586010132898.shtml
-
-明史演繹-土豆網(中國)http://www.tudou.com/plcover/jmvFnknyaX0
-
-font
----
-www.justfont.com
-
-tutorial
----
-www.gimpmagazine.org
-
-www.w3schools.com/html
-
-www.learncpp.com
-
-material
----
-https://openclipart.org/
+繁體字教學http://tieba.baidu.com/p/2834211199
 
 wiki
 ---
@@ -100,28 +71,6 @@ www.google.com
 www.yahoo.com
 
 www.bing.com
-
-little
----
-http://programet.org
-
-www.byvoid.com
-
-www.sssch.net
-
-website building
----
-www.phpbb.com
-
-www.wordpress.org
-
-games
----
-www.coolrom.com
-
-www.zophar.net
-
-www.freeroms.com
 
 cangjie
 ---
