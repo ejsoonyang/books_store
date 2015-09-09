@@ -19,7 +19,7 @@ video
 
 梦回大唐：大明宫猜想-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355574229055492.shtml
 
-非常帝王的非常之謎-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355586010132898.shtml
+中國通史-央視紀實(中國)http://jishi.cntv.cn/2013/08/13/VIDA1376359403316425.shtml
 
 明史演繹-土豆網(中國)http://www.tudou.com/plcover/jmvFnknyaX0
 
