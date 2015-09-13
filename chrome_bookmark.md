@@ -54,6 +54,10 @@ www.phpbb.com
 
 www.wordpress.org
 
+html
+---
+http://www.colorzilla.com/gradient-editor/
+
 tutorial
 ---
 www.gimpmagazine.org
