@@ -3,7 +3,7 @@ website
 
 Chinese
 ---
-小學堂-中研院http://xiaoxue.iis.sinica.edu.tw
+小學堂-中央研究院http://xiaoxue.iis.sinica.edu.tw
 
 漢文庫典-朱邦復http://www.hanculture.com/dic/index.php
 
@@ -15,7 +15,9 @@ Chinese
 
 重編國語辭典-中華民國教育部http://dict.revised.moe.edu.tw
 
-萌典https://www.moedict.tw
+萌典-零時政府https://www.moedict.tw
+
+國際漢字知識庫-中央研究院http://chardb.iis.sinica.edu.tw/
 
 ---
 字源網(中國)http://www.fantizi5.com/ziyuan
