@@ -9,6 +9,16 @@ video
 
 回望勾吳(第五集勾踐滅吳)-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355567357439372.shtml
 
+公元一六四四-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355562601063968.shtml
+
+秦軍祕檔-央視紀實(中國)http://jishi.cntv.cn/2013/07/03/VIDA1372844760792227.shtml
+
+龜茲龜茲-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355150817402556.shtml
+
+遠古探祕-央視紀實(中國)http://jishi.cntv.cn/2013/01/22/VIDA1358841825705526.shtml
+
+帝都泱泱-央視紀實(中國)http://jishi.cntv.cn/2013/07/18/VIDA1374126330187288.shtml
+
 上下五千年-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145900906834.shtml
 
 帝國的興衰-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355569689990659.shtml
