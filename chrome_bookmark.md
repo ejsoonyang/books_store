@@ -13,6 +13,8 @@ video
 
 秦軍祕檔-央視紀實(中國)http://jishi.cntv.cn/2013/07/03/VIDA1372844760792227.shtml
 
+科舉-央視紀實(中國)http://jishi.cntv.cn/2013/07/23/VIDA1374548776737690.shtml
+
 龜茲龜茲-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355150817402556.shtml
 
 遠古探祕-央視紀實(中國)http://jishi.cntv.cn/2013/01/22/VIDA1358841825705526.shtml
