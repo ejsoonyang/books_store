@@ -11,6 +11,8 @@ video
 
 公元一六四四-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355562601063968.shtml
 
+大秦帝國-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355568238980964.shtml
+
 秦軍祕檔-央視紀實(中國)http://jishi.cntv.cn/2013/07/03/VIDA1372844760792227.shtml
 
 科舉-央視紀實(中國)http://jishi.cntv.cn/2013/07/23/VIDA1374548776737690.shtml
