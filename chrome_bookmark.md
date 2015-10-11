@@ -7,7 +7,7 @@ video
 
 西楚霸王-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355582437561125.shtml
 
-回望勾吳(第五集勾踐滅吳)-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355567357439372.shtml
+回望勾吳(第五集伍子胥)-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355567357439372.shtml
 
 公元一六四四-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355562601063968.shtml
 
@@ -19,19 +19,7 @@ video
 
 龜茲龜茲-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355150817402556.shtml
 
-遠古探祕-央視紀實(中國)http://jishi.cntv.cn/2013/01/22/VIDA1358841825705526.shtml
-
-帝都泱泱-央視紀實(中國)http://jishi.cntv.cn/2013/07/18/VIDA1374126330187288.shtml
-
-上下五千年-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145900906834.shtml
-
-帝國的興衰-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355569689990659.shtml
-
 中國古鎮-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355145774382985.shtml
-
-青銅王朝-央視紀實(中國)http://jishi.cntv.cn/2012/12/10/VIDA1355151271419540.shtml
-
-梦回大唐：大明宫猜想-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355574229055492.shtml
 
 中國通史-央視紀實(中國)http://jishi.cntv.cn/2013/08/13/VIDA1376359403316425.shtml
 
