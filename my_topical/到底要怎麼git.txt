@@ -1,5 +1,15 @@
 到底要怎麼git
 
+乙未年九月十三，建靜態站方法：
+先到github網站建一個repository，如我建了blog。
+再到setting中點擊Lanch automatic page generator。
+隨意選擇一個主題（建議選最右邊一個，因其最簡潔，反應快）。
+本地新建blog資料夾，git init。
+git remote add blog https:ejsoonyang/blog.git
+git pull blog gh-pages
+最關鍵的一句是：git checkout -b gh-pages，這句扭轉乾坤。
+現在就可以修改index.html，add各種靜態頁面了。
+
 我記錄下了這次學習git的體驗.我認為趁自己還是新手時寫的教程才是真正的'新手教程'.
 我的理解:git是一個版本控制軟體;github是一個網站;git是一個通過在github上載/下載來控制文檔版本的軟體.
 開始tour吧!先去github.com創建一個賬號,再在網站上找到'New repository',查了字典是新容器的意思.圖形介面建立了賬號和項目,還要在賬號設置(account setting)裡面確認郵箱,然後下載安裝git軟體.
