@@ -60,6 +60,8 @@ html
 ---
 http://www.colorzilla.com/gradient-editor/
 
+[http://json.org/]
+
 tutorial
 ---
 www.gimpmagazine.org
