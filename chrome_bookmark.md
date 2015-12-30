@@ -38,6 +38,20 @@ video
 
 龍的傳說-美國國家地理http://jishi.cntv.cn/2013/01/24/VIDA1359018551057394.shtml
 
+大唐西遊記-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355568022227138.shtml
+
+對照記：猶在鏡中-央視紀實(中國)http://jishi.cntv.cn/2013/07/29/VIDA1375086980916778.shtml
+
+大山的精靈-央視紀實(中國)http://jishi.cntv.cn/2014/01/26/VIDA1390722175176250.shtml
+
+大道魯商-央視紀實(中國)http://jishi.cntv.cn/2015/02/02/VIDA1422868873054438.shtml
+
+打開海洋百寶箱-央視紀實(中國)http://jishi.cntv.cn/2013/06/20/VIDA1371724598976171.shtml
+
+大明宮-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355568072545933.shtml
+
+大明宮遺恨-央視紀實(中國)http://jishi.cntv.cn/2012/12/15/VIDA1355568037959441.shtml
+
 english
 ---
 http://www.ted.com
